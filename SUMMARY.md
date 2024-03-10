@@ -5,7 +5,8 @@
 ## Overview
 
 * [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [🤖 Autocompunding](overview/autocompunding.md)
+* [🧠 Autorebalancing](overview/autorebalancing.md)
 
 ## Y TOKEN
 

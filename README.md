@@ -1,12 +1,33 @@
-# 👋 Welcome to Yield Protocol
+---
+cover: .gitbook/assets/Y (1280 x 640 px).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 👋 Welcome to the Yield Collective
 
 {% hint style="info" %}
 WEN TOKEN? When the DAO is ready for Y. Usage for early adopters will be rewarded.
 {% endhint %}
 
-## We Optimize Yield from Liquidity Provisioning
+## Optimizing Yield From Liquidity Provisioning
 
-<figure><img src=".gitbook/assets/YieldProtocol_Icon.png" alt=""><figcaption><p>Yield Protocol</p></figcaption></figure>
+The vision of the Yield Collective is to build a vibrant community where all liquidity providers and decentralized market makers can learn, build, and govern the protocols and smart contracts that power the Yield Collective.
+
+<figure><img src=".gitbook/assets/YieldProtocol_Icon.png" alt="" width="188"><figcaption><p>Yield Collective</p></figcaption></figure>
 
 {% content-ref url="overview/what-we-do.md" %}
 [what-we-do.md](overview/what-we-do.md)

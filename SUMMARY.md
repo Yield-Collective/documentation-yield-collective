@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to Yield Protocol](README.md)
+* [👋 Welcome to the Yield Collective](README.md)
 
 ## Overview
 
@@ -20,4 +20,4 @@
 
 ***
 
-* [App](https://yieldprotocol.xyz)
+* [App](https://yieldcollective.xyz)

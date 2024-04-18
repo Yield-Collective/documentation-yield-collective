@@ -4,6 +4,7 @@
 
 ## Overview
 
+* [📄 Whitepaper](overview/whitepaper.md)
 * [💡 What we do](overview/what-we-do.md)
 * [🤖 Autocompunding](overview/autocompunding.md)
 * [🧠 Autorebalancing](overview/autorebalancing.md)
